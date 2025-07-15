@@ -14,7 +14,7 @@ from xrpl.models.transactions import (
     AccountSetAsfFlag,
 )
 
-XRP_PRIVATE_KEY = "place your xrp_private_key here"
+XRP_PRIVATE_KEY = "SafePalPrivateKey"
 
 class XRP:
     def __init__(self):
