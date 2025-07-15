@@ -69,3 +69,6 @@ tx_response => Response(
     }
 )
 ```
+
+Hope this helps you prevent lost XRP deposits and reduce support headaches.
+If you find it useful, feel free to ⭐️ the repo.
